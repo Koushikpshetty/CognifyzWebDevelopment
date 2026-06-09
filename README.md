@@ -41,4 +41,4 @@ This project demonstrates basic front-end development skills including webpage s
 
 ## 👩‍💻 Developed By
 
-Sharanya K
+koushik P Shetty
